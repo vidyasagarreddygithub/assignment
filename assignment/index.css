@@ -1,0 +1,232 @@
+.profileimage {
+  width: 50px;
+}
+
+.profileNamedContainer {
+  margin-right: 10px;
+}
+
+.profileimageconatiner {
+  margin-right: 30px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.profileimagepara {
+  font-size: 13px;
+  margin-top: 3px;
+  font-weight: 700;
+}
+
+.namehead {
+  font-size: 25px;
+  margin-top: 3px;
+  font-weight: 700;
+}
+
+.bg-container {
+  background-color: #e74c3c;
+  padding: 20px;
+}
+
+.namepara {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.addresssection {
+  margin-left: 5px;
+}
+
+.verticalline {
+  width: 3px;
+  height: 120px;
+  background-color: black;
+  margin-left: 35px;
+}
+
+.adveristingpara {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.addresspara {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.line {
+  border-width: 3px;
+  border-color: black;
+  margin-left: 70px;
+}
+
+.workpofileimage {
+  width: 70px;
+}
+
+.workpara {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.workimagecontainer {
+  text-align: center;
+}
+
+.paradetails {
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.yearparawork {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.yearssection {
+  margin-left: 10px;
+}
+
+.spanelement {
+  font-weight: 400;
+}
+
+.skillimage {
+  width: 50px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.para2019 {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.ratingimage {
+  width: 10px;
+  height: 10px;
+  margin-left: 2px;
+}
+
+.skillandaward {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.printrating {
+  margin-left: 70px;
+}
+
+.skillsnamescontainer {
+  margin-left: 30px;
+}
+
+.uiskill {
+  margin-left: 100px;
+}
+
+.growthratingcontainer {
+  margin-left: 30px;
+}
+
+.topographyconatiner {
+  margin-left: 70px;
+}
+
+.videorating {
+  margin-left: 40px;
+}
+
+.skillname {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.yearspara {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.Awardspara {
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.spanpara {
+  font-weight: 400;
+  font-size: 11px;
+}
+
+.verticallineskills {
+  width: 3px;
+  height: 200px;
+  background-color: black;
+  margin-left: 15px;
+}
+
+.unorderdlist {
+  margin-left: 10px;
+}
+
+.awardnames {
+  margin-top: 10px;
+}
+
+.educationpofileimage {
+  height: 70px;
+  width: 70px;
+}
+
+.educationpara {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.educationyearssection {
+  margin-left: 20px;
+}
+
+.educationyear {
+  margin-top: 10px;
+}
+
+.yearparaeducation {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.paradetailseducation {
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.spanelementcollege {
+  font-weight: 500;
+}
+
+.img {
+  width: 50px;
+  margin-top: 10px;
+}
+
+.imagesclass {
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.imagescontainer {
+  margin-left: 40px;
+}
+
+.singleimage {
+  margin-left: 30px;
+}
